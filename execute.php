@@ -44,6 +44,11 @@ elseif($text=="ciao vanni")
 {
 	$response = "ciao $username";
 }
+elseif($text=="ciao")
+{
+	$response = "$username che posso parlà da i banco?";
+}
+
 
 
 else
